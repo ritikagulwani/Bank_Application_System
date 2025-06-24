@@ -25,3 +25,8 @@ Java (Core Java)
 Object-Oriented Programming (OOP) principles
 
 File structure based on classes and packages
+
+## output
+![output](https://github.com/user-attachments/assets/747c14c6-423d-4760-a2dd-9a64ef214495)
+
+
